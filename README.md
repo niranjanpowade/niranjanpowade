@@ -20,4 +20,4 @@ You can check out my portfolio here:
 - LinkedIn: [Niranjan Powade]([https://www.linkedin.com/in/niranjan-powade/](https://www.linkedin.com/in/niranjan-powade-8a712a220/))
 - Email: [niranjanpowadex@gmail.com](niranjanpowadex@gmail.com)
 
-Feel free to reach out to me if you'd like to collaborate on a project or just chat about software development! 😊
+Feel free to reach out to me if you'd like to collaborate on a project or just chat about software development!
