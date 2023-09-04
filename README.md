@@ -20,6 +20,6 @@ You can check out my portfolio here:
 - LinkedIn: [Niranjan Powade](https://www.linkedin.com/in/niranjan-powade-8a712a220/)
 - Email: [niranjanpowadex@gmail.com](niranjanpowadex@gmail.com)
 
-Feel free to reach out to me if you'd like to collaborate on a project or just chat about software development!
+[![GitHub Streak](https://streak-stats.demolab.com?user=niranjanpowade)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=niranjanpowade&theme=shadow-green)](https://git.io/streak-stats)
+Feel free to reach out to me if you'd like to collaborate on a project or just chat about software development!
