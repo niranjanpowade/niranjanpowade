@@ -8,7 +8,7 @@ Please note that my previous GitHub account was compromised and I lost access to
 
 ## About Me
 - 🔭 Currently working as a Software Developer.
-- 💻 Proficient in JavaScript and Java.
+- 💻 Proficient in React, Javascript and Nodejs.
 - 📱 Specialize in building apps with React Native.
 
 ## Portfolio
